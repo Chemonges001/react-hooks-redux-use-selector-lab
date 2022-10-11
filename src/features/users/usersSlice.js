@@ -1,5 +1,6 @@
 const initialState = {
   users: [],
+  // count: 0
 };
 
 function usersReducer(state = initialState, action) {
